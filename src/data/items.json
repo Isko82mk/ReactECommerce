@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Book",
+    "price": 10.99,
+    "imgUrl": "./img/book.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Mac Book Pro",
+    "price": 1199,
+    "imgUrl": "./img/computer.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Banana",
+    "price": 1.99,
+    "imgUrl": "./img/banana.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Nissan Leaf",
+    "price": 33000,
+    "imgUrl": "./img/carEv.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Scott",
+    "price": 1099,
+    "imgUrl": "./img/bike.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Xbox Controller",
+    "price": 99.99,
+    "imgUrl": "./img/controller.jpg"
+  }
+]
